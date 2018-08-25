@@ -20,6 +20,7 @@
   "dependencies": {
     "base-64": "^0.1.0",
     "prompt": "^1.0.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "socketio": "^1.0.0"
   }
 }
